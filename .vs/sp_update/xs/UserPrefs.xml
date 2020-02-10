@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{4CF114F3-D967-4076-A006-89EBBA67A1C9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="deneme3/Program.cs">
+    <Files>
+      <File FileName="deneme3/Form1.cs" Line="1" Column="1" />
+      <File FileName="deneme3/Program.cs" Line="11" Column="12" />
+      <File FileName="deneme3/App.config" Line="10" Column="17" />
+      <File FileName="deneme3/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="deneme3/Properties/Resources.resx" Line="1" Column="1" />
+      <File FileName="deneme3/Properties/Settings.settings" Line="1" Column="1" />
+      <File FileName="deneme3/Properties/Resources.Designer.cs" Line="1" Column="81" />
+      <File FileName="deneme3/Properties/Settings.Designer.cs" Line="29" Column="95" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sp_update" expanded="True">
+            <Node name="sp_update" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="Resources.resx" expanded="True" />
+                <Node name="Settings.settings" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.sp__update PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
